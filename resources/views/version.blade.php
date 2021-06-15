@@ -22,7 +22,7 @@
 </head>
 <body class="antialiased">
     <p>
-        Version: 2
+        Version: 1
     </p>
 </body>
 </html>
